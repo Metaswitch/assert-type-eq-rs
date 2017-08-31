@@ -8,4 +8,7 @@ homepage = "https://github.com/Metaswitch/assert-type-eq-rs"
 repository = "https://github.com/Metaswitch/assert-type-eq-rs"
 readme = "README.md"
 
+[badges.travis-ci]
+repository = "Metaswitch/assert-type-eq-rs"
+
 [dependencies]
